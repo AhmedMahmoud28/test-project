@@ -1,0 +1,10 @@
+Django==4.1.1
+djangorestframework==3.13.1
+django-unfold == 0.6.8
+python-decouple==3.6
+pre-commit==2.20.0
+autopep8==1.7.0
+black==22.8.0
+flake8==5.0.4
+drf-yasg==1.21.3
+django-silk==5.0.3
